@@ -6,3 +6,4 @@ playlist songs
 5. hi world
 6. checking all the commands in one go. git commit -a -m <"Commit message">
 7. same as above but instead of -a can we add multiple files 
+8. intro to conflicts
