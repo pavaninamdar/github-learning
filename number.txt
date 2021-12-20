@@ -1,3 +1,9 @@
 NUM one
 TWO 
 THREE
+
+new colors added
+blue
+black
+Green
+Yellow
